@@ -1,3 +1,5 @@
+package EstruturadeRepe;
+
 import java.util.Scanner;
 
 public class Contagem {

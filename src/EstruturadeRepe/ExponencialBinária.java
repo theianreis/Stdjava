@@ -1,3 +1,5 @@
+package EstruturadeRepe;
+
 public class ExponencialBinária {
 
     public static double myPow(double x, int n) {

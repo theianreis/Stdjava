@@ -1,3 +1,5 @@
+package EstruturadeRepe;
+
 public class fibonacci {
     static long fib(int n) {
         if (n <= 1) return n;

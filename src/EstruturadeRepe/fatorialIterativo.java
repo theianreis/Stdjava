@@ -1,3 +1,5 @@
+package EstruturadeRepe;
+
 public class fatorialIterativo {
     static long fat(int n) {
         long resultado = 1;
